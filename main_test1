@@ -1,0 +1,35 @@
+//This main_1 test script is to show how to scan direectories and extract from lines in a txt file
+
+//imports the FileType class to allow file traversal
+import groovy.io.FileType
+
+//defines a class to scan directories and extract IDs from lines
+class dirScanner {
+    def files(str = dirPath) {
+        return null
+    }
+
+    def extractID(String line) {
+    line.replaceAll(/[^0-9]/, "")
+    int end = line.indexOf(')')
+    return line.substring(end + 2)
+    }
+}
+//creates an instance of the dirScanner class and sets up directory scanning
+def findFile = new dirScanner()
+//gets the current working directory
+def dirPath = System.getProperty("user.dir")
+//creates a File object 'dir' for the directory
+def dir = new File(dirPath)
+
+files = []
+target = dirPath + "\\findme.txt"
+def targetFile = new File(target)
+//recursively searches for the target file and adds it to the files list
+dir.eachFileRecurse (FileType.ANY) { file -> if (file == targetFile){files.add(file)}}
+println files
+//Open output file to write to
+OutputStream file1 = new FileOutputStream("file1.txt");
+//Reads each line from the found file, extracts the ID, and writes it to the output file
+def findMe = new File(files[0].toString()).eachLine { line -> file1 << findFile.extractID(line) + "\n" }
+file1.close()

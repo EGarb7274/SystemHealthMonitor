@@ -1,0 +1,164 @@
+1 Abzan Ascendancy (C20) 198
+1 Accursed Marauder (MH3) 80
+1 Altar of Dementia (MH1) 218
+1 Anax, Hardened in the Forge (THB) 125
+1 Ashnod's Altar (CHR) 92
+1 Athreos, God of Passage (JOU) 146
+1 Awakening Zone (2XM) 153
+1 Ayara, First of Locthwain (ELD) 75
+1 Ayli, Eternal Pilgrim (OGW) 151
+1 Bartolomé del Presidio (LCI) 224
+1 Bastion of Remembrance (IKO) 73
+1 Bitterblossom (2X2) 69
+1 Black Market (JMP) 204
+1 Black Market Connections (CLB) 620
+1 Blasting Station (PLST) 107
+1 Blood Artist (C17) 99
+1 Bloodflow Connoisseur (2X2) 71
+1 Bloodghast (IMA) 82
+1 Bloodsoaked Champion (KTK) 66
+1 Bloodthrone Vampire (M13) 83
+1 Bontu's Monument (AKH) 225
+1 Butcher of Malakir (PLST) 53
+1 Butcher of the Horde (KTK) 168
+1 Carrion Feeder (MH1) 81
+1 Cartel Aristocrat (GTC) 150
+1 Chatterfang, Squirrel General (MH2) 151
+1 Corpse Knight (M20) 206
+1 Corrupted Conviction (OTJ) 84
+1 Costly Plunder (XLN) 96
+1 Cruel Celebrant (WAR) 188
+1 Crypt Ghast (GTC) 61
+1 Culling Dais (2XM) 246
+1 Dark Privilege (VIS) 56
+1 Dark Prophecy (M14) 93
+1 Deadly Dispute (CLB) 124
+1 Deathreap Ritual (2XM) 194
+1 Demon's Disciple (ZNR) 97
+1 Desecrated Tomb (M19) 230
+1 Devouring Swarm (M12) 91
+1 Dictate of Erebos (JOU) 65
+1 Dreadhorde Invasion (WAR) 86
+1 Drivnod, Carnage Dominus (ONE) 90
+1 Dross Hopper (SOM) 60
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
+1 Elenda, the Dusk Rose (RIX) 157
+1 Endrek Sahr, Master Breeder (C13) 76
+1 Enduring Innocence (DSK) 6
+1 Erebos, Bleak-Hearted (THB) 93
+1 Evolutionary Leap (TSR) 362
+1 Falkenrath Aristocrat (2XM) 195
+1 Falkenrath Noble (MM3) 70
+1 Falkenrath Torturer (INR) 109
+1 Fallen Angel (A25) 91
+1 Fallen Ideal (TSP) 109
+1 Fanatical Devotion (NEM) 8
+1 Fecundity (C13) 145
+1 Fleshbag Marauder (CMR) 128
+1 Forsaken Miner (OTJ) 88
+1 Garna, Bloodfist of Keld (DMU) 299
+1 Genesis Chamber (BBD) 235
+1 Goblin Bombardment (MH2) 279
+1 Grave Pact (CMD) 85
+1 Gravelighter (NEO) 98
+1 Grim Backwoods (C20) 278
+1 Grim Haruspex (C19) 118
+1 Gutterbones (RNA) 76
+1 Harvester of Souls (TSR) 325
+1 Haunt of the Dead Marshes (LTR) 90
+1 Hidden Stockpile (2XM) 201
+1 High Market (C21) 293
+1 Hissing Iguanar (UMA) 134
+1 Immersturm Predator (KHM) 214
+1 Impact Tremors (DTK) 140
+1 Izoni, Thousand-Eyed (GRN) 180
+1 Jadar, Ghoulcaller of Nephalia (MID) 108
+1 Jarad, Golgari Lich Lord (DDJ) 45
+1 Judith, the Scourge Diva (RNA) 185
+1 Juri, Master of the Revue (CMR) 282
+1 Kher Keep (CLB) 899
+1 Korvold, Fae-Cursed King (ELD) 329
+1 Krav, the Unredeemed (BBD) 4
+1 Lagomos, Hand of Hatred (DMU) 205
+1 Life Insurance (NCC) 74
+1 Liliana, Dreadhorde General (WAR) 97
+1 Lolth, Spider Queen (AFR) 112
+1 Mahadi, Emporium Master (CLB) 282
+1 Makeshift Munitions (CMR) 191
+1 Marionette Apprentice (MH3) 100
+1 Martyr's Bond (PLST) 19
+1 Martyr's Cause (ULG) 13
+1 Mayhem Devil (WAR) 204
+1 Mazirek, Kraul Death Priest (2XM) 209
+1 Mentor of the Meek (2X2) 340
+1 Merciless Executioner (FRF) 76
+1 Midnight Reaper (PGRN) 77
+1 Mirkwood Bats (LTR) 421
+1 Moldervine Reclamation (KHC) 89
+1 Morbid Opportunist (MID) 113
+1 Nadier's Nightblade (CMR) 136
+1 Nantuko Husk (PLST) 109
+1 Ogre Slumlord (ZNC) 50
+1 Oketra's Monument (PLST) 233
+1 Open the Graves (M19) 112
+1 Ophiomancer (C13) 84
+1 Outpost Siege (C20) 157
+1 Pawn of Ulamog (ROE) 122
+1 Persistent Specimen (VOW) 125
+1 Phyrexian Altar (UMA) 232
+1 Phyrexian Ghoul (A25) 100
+1 Phyrexian Plaguelord (CMA) 61
+1 Phyrexian Tower (MH3) 303
+1 Pitiless Plunderer (RIX) 81
+1 Plaguecrafter (GRN) 82
+1 Plumb the Forbidden (STX) 81
+1 Poison-Tip Archer (M19) 220
+1 Priest of Forgotten Gods (RNA) 83
+1 Prossh, Skyraider of Kher (C13) 204
+1 Purphoros, God of the Forge (CMM) 246
+1 Rakdos, the Muscle (OTJ) 226
+1 Reassembling Skeleton (M19) 116
+1 Reckoner's Bargain (NEO) 120
+1 Relic Vial (ZNR) 250
+1 Requiem Angel (C14) 84
+1 Retrofitted Transmogrant (MH3) 106
+1 Revel in Riches (XLN) 117
+1 Sadistic Hypnotist (DDJ) 62
+1 Sanitarium Skeleton (UMA) 111
+1 Scarland Thrinax (C13) 209
+1 Sek'Kuar, Deathkeeper (CSP) 131
+1 Sifter of Skulls (OGW) 77
+1 Silversmote Ghoul (M21) 122
+1 Skrelv's Hive (ONE) 34
+1 Skullclamp (C15) 267
+1 Smothering Abomination (BFZ) 99
+1 Spawning Pit (DST) 141
+1 Spiteful Prankster (JMP) 26
+1 Squee, Goblin Nabob (C19) 152
+1 Squee, the Immortal (DOM) 146
+1 Syr Konrad, the Grim (ELD) 107
+1 Tenacious Dead (BBD) 163
+1 Teysa Karlov (RNA) 212
+1 Teysa, Orzhov Scion (GPT) 134
+1 Thalisse, Reverent Medium (CMR) 291
+1 The Meathook Massacre (MID) 112
+1 Tocasia's Welcome (BRO) 30
+1 Urabrask's Forge (ONE) 387
+1 Vampire Aristocrat (MM3) 86
+1 Vengeful Bloodwitch (FDN) 76
+1 Vicious Shadows (ALA) 119
+1 Village Rites (M21) 126
+1 Vindictive Vampire (RNA) 90
+1 Viscera Seer (CMR) 158
+1 Vish Kal, Blood Arbiter (2XM) 226
+1 Vraska, Golgari Queen (GRN) 213
+1 Weaponize the Monsters (IKO) 140
+1 Weatherlight Compleated (DMU) 242
+1 Welcoming Vampire (VOW) 46
+1 Westvale Abbey / Ormendahl, Profane Prince (SOI) 281
+1 Whisper, Blood Liturgist (DOM) 111
+1 Witch's Oven (ELD) 237
+1 Woe Strider (THB) 123
+1 Yahenni, Undying Partisan (AER) 74
+1 Yawgmoth, Thran Physician (MH1) 116
+1 Zulaport Cutthroat (C20) 142
